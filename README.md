@@ -1,7 +1,7 @@
 # Database Systems
 
 ## Implementation of mini MySQL Engine in Python.
-###**Prerequisite**
+**Prerequisite**
 - Python 3.x
 - metadata.txt file of the tables in the same folder as source
 - csv file of tables in the same folder as source
