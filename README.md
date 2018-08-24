@@ -17,4 +17,4 @@ Run python miniSQL.py [sql queries]
 - [ ] make a function that parses where
 - [ ] make function that parses order by sorts according to given value
 - [ ] aggregate function
-- [] optimize joining of two table queries
+- [ ] optimize joining of two table queries
