@@ -16,5 +16,5 @@ Run python miniSQL.py [sql queries]
 - [x] project only selected columns from the given table
 - [x] make a function that parses where
 - [ ] make function that parses order by sorts according to given value
-- [ ] aggregate function
+- [x] aggregate function
 - [ ] optimize joining of two table queries
