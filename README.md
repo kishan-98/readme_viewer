@@ -13,8 +13,8 @@ Run python miniSQL.py [sql queries]
 
 ## To-Do
 - [x] select all columns from the given tables
-- [ ] project only selected columns from the given table
-- [ ] make a function that parses where
+- [x] project only selected columns from the given table
+- [x] make a function that parses where
 - [ ] make function that parses order by sorts according to given value
 - [ ] aggregate function
 - [ ] optimize joining of two table queries
