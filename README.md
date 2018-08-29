@@ -18,7 +18,7 @@ python miniSQL.py [sql queries]
 - aggregation functions {total aggregation(min, max, sum, avg, count) partial aggregation(distinct)}
 
 ## Query
-select [columns with aggregate functions] from [table/s with aliases] where [condition]
+**select** *[columns with aggregate functions]* **from** *[table/s with aliases]* **where** *[condition]*
 
 ## To-Do
 - [x] select all columns from the given tables
