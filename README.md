@@ -1,12 +1,12 @@
 ### TO-DO
-:white_check_mark: Make Scanner to scan next token using FLEX
-- [x] Make Parser to scan next token using YACC/BISON
-- [x] Phase 1:
-    - [x] Declaration
-    - [x] Assignment
-    - [x] Expression
-    - [x] Loops
-    - [x] Control Statements
+-:white_check_mark: Make Scanner to scan next token using FLEX
+-:white_check_mark: Make Parser to scan next token using YACC/BISON
+-:white_check_mark:Phase 1:
+    -:white_check_mark: Declaration
+    -:white_check_mark: Assignment
+    -:white_check_mark: Expression
+    -:white_check_mark: Loops
+    -:white_check_mark: Control Statements
 - [x] Phase 2:
     - [x] Function declaration
     - [x] Function call
