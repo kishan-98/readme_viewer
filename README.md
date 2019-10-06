@@ -7,10 +7,10 @@
     - :white_check_mark: Expression
     - :white_check_mark: Loops
     - :white_check_mark: Control Statements
-:white_check_mark: Phase 2:
-    :white_check_mark: Function declaration
-    :white_check_mark: Function call
-    :white_check_mark: String Data Type
+* :white_check_mark: Phase 2:
+    * :white_check_mark: Function declaration
+    * :white_check_mark: Function call
+    * :white_check_mark: String Data Type
 - [x] Phase 3:
     - [x] Array and Matrix support
     - [x] Data-type type casting
