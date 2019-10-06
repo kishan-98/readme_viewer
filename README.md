@@ -1,5 +1,5 @@
 ### TO-DO
-- [:white_check_mark:] Make Scanner to scan next token using FLEX
+:white_check_mark: Make Scanner to scan next token using FLEX
 - [x] Make Parser to scan next token using YACC/BISON
 - [x] Phase 1:
     - [x] Declaration
