@@ -1,16 +1,21 @@
-# Honours Presentation
-
-## To-Do
-- [ ] All perceptual and propositional puzzles
-- [ ] Total average time for each condition
-- [ ] Excel sheet data for detail scoring, organization as follows
-    - [ ] users ID
-    - [ ] demographic
-    - [ ] puzzle no
-    - [ ] score
-    - [ ] total time
-    - [ ] individual puzzle time, score
-    - [ ] average score from a condition
-- [ ] crt responses of easy and tough
-- [ ] crt score
-- [ ] eye tracking detail and phusiological detail
+### TO-DO
+- [:white_check_mark:] Make Scanner to scan next token using FLEX
+- [x] Make Parser to scan next token using YACC/BISON
+- [x] Phase 1:
+    - [x] Declaration
+    - [x] Assignment
+    - [x] Expression
+    - [x] Loops
+    - [x] Control Statements
+- [x] Phase 2:
+    - [x] Function declaration
+    - [x] Function call
+    - [x] String Data Type
+- [x] Phase 3:
+    - [x] Array and Matrix support
+    - [x] Data-type type casting
+    - [x] Sample Codes added
+- [ ] Phase 4:
+    - [ ] Make Abstract Syntax Tree(AST) of the Grammar using Data Structures
+    - [ ] Make Parse Tree
+    - [ ] Make Semantic Parser from AST and Parse Tree along with Symbol Table
